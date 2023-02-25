@@ -1,0 +1,24 @@
+= {blank}
+:author: astronmax
+:email: astronmax@gmail.com
+:revnumber: 1.0
+:revdate: {docdate}
+:doctype: book
+:notitle:
+:front-cover-image: image:title/title.pdf[]
+:lang: ru,en
+:docinfo:
+:pagenums:
+:icons: font
+:pdf-page-size: A4
+:toc:
+:toclevels: 3
+:toc-title: ОГЛАВЛЕНИЕ
+:pdf-theme: theme.yml
+:pdf-fontsdir: fonts
+:figure-caption: Рисунок
+:listing-caption: Листинг
+:table-caption: Таблица
+
+include::practice_1.adoc[]
+include::practice_2.adoc[]

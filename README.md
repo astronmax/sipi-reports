@@ -1,2 +1,2 @@
-# sipi-reports
-СИПИ отчёты по практикам в формате Asciidoc
+# asciidoc-mirea
+AsciiDoctor PDF theme for MIREA reports
