@@ -59,17 +59,20 @@ base:
 
 heading-h2:
   font-size: 14
+  font-color: #000000
   text-align: center
   line-height: 1.5
   break-after: always
 
 heading-h3:
   font-size: 14
+  font-color: #000000
   text-align: left
   line-height: 1.5
 
 heading-h4:
   font-size: 14
+  font-color: #000000
   text-align: left
   line-height: 1.5
 
@@ -105,3 +108,4 @@ table:
   align: right
   caption:
     align: inherit
+  font-size: 12
