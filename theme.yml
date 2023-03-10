@@ -33,8 +33,6 @@ toc:
   indent: 1.25cm
   dot-leader:
     font-color: #000000
-  title:
-    text-align: center
 
 footer:
   font_family: TimesNewRoman
@@ -68,14 +66,16 @@ heading-h2:
 heading-h3:
   font-size: 14
   text-align: left
-  padding: [0cm, 0cm, 0cm, 1.25cm]
   line-height: 1.5
 
 heading-h4:
   font-size: 14
   text-align: left
-  padding: [0cm, 0cm, 0cm, 1.25cm]
   line-height: 1.5
+
+heading:
+  h3-padding: [0cm, 0cm, 0cm, 1.25cm]
+  h4-padding: [0cm, 0cm, 0cm, 1.25cm]
 
 code:
   font_family: CourierNew
@@ -97,7 +97,7 @@ image:
     align: inherit
 
 list:
-  indent: 1.8cm
+  indent: 1.25cm
 
 table:
   border-color: #000000
@@ -105,4 +105,3 @@ table:
   align: right
   caption:
     align: inherit
-    font-style: italic

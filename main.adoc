@@ -22,3 +22,5 @@
 
 include::practice_1.adoc[]
 include::practice_2.adoc[]
+include::practice_3.adoc[]
+include::practice_4.adoc[]
